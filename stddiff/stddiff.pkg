@@ -1,4 +1,6 @@
-D 'theildeco': Produce refined Theil index decomposition by group and quantile Use theildeco With STATA 19
+D 'stddiff': Calculate standardized differences between groups for continuous and categorical variables Use stddiff With STATA 19
 D
-F theildeco.ado
-F theildeco.sthlp
+F _stddiff.ado
+F stddiff.ado
+F stddiff.sthlp
+F stddiffi.ado
