@@ -1,0 +1,2 @@
+# stddiff
+Calculate standardized differences between groups for continuous and categorical variables Use stddiff With STATA 19
