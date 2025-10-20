@@ -1,6 +1,8 @@
 # stddiff
 Calculate standardized differences between groups for continuous and categorical variables Use stddiff With STATA 19
 
+https://www.youtube.com/watch?v=rAMpWVYBKZk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
